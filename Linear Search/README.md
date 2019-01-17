@@ -1,0 +1,1 @@
+Linear search is very basic!Here i did it with C++! If there is any question feel free to ask me!
